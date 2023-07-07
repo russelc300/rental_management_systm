@@ -49,6 +49,6 @@ Bootstrap - CSS framework for responsive design.
 Font Awesome - Icons for the user interface.
 PHPMailer - Library for sending email notifications.
 Contact
-For any questions or inquiries, please contact your-email@example.com.
+For any questions or inquiries, please contact russelc30@gmail.com
 
 Feel free to customize this README.md file according to your specific rental management system and its features. Provide clear instructions for installation, usage, and any additional dependencies or libraries required.
